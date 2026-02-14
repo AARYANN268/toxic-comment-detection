@@ -1,4 +1,4 @@
-# toxic-comment-classification
+# toxic-comment-detection
 A multi-label classification project using Deep Learning (TensorFlow) to detect various types of toxicity in online comments, including threats, insults, and identity hate
 This project implements a multi-label text classification model to detect various forms of toxicity in social media comments. The model is capable of identifying multiple labels for a single comment, such as **toxic, severe_toxic, obscene, threat, insult, and identity_hate**.
 ## 🚀 Key Features
